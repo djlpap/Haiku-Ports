@@ -1,0 +1,31 @@
+3rd_party/imgui/CMakeFiles/dear_imgui.dir/imgui_impl_opengl3.cpp.o: \
+ /boot/home/Desktop/src/RigelEngine-0.9.1/3rd_party/imgui/imgui_impl_opengl3.cpp \
+ /boot/home/Desktop/src/RigelEngine-0.9.1/3rd_party/imgui/imgui/imgui.h \
+ /boot/home/Desktop/src/RigelEngine-0.9.1/3rd_party/imgui/imgui/imconfig.h \
+ /boot/system/develop/tools/lib/gcc/x86_64-unknown-haiku/11.2.0/include/float.h \
+ /boot/system/develop/tools/lib/gcc/x86_64-unknown-haiku/11.2.0/include/stdarg.h \
+ /boot/system/develop/tools/lib/gcc/x86_64-unknown-haiku/11.2.0/include/stddef.h \
+ /boot/system/develop/headers/bsd/string.h \
+ /boot/system/develop/headers/gnu/string.h \
+ /boot/system/develop/headers/posix/string.h \
+ /boot/system/develop/headers/posix/locale_t.h \
+ /boot/system/develop/headers/posix/sys/types.h \
+ /boot/system/develop/headers/config/types.h \
+ /boot/system/develop/headers/config/HaikuConfig.h \
+ /boot/system/develop/headers/os/BeBuild.h \
+ /boot/system/develop/headers/posix/null.h \
+ /boot/system/develop/headers/posix/size_t.h \
+ /boot/system/develop/headers/bsd/time.h \
+ /boot/system/develop/headers/posix/time.h \
+ /boot/system/develop/headers/bsd/features.h \
+ /boot/system/develop/headers/posix/strings.h \
+ /boot/system/develop/headers/posix/assert.h \
+ /boot/home/Desktop/src/RigelEngine-0.9.1/3rd_party/imgui/imgui_impl_opengl3.h \
+ /boot/system/develop/headers/bsd/stdio.h \
+ /boot/system/develop/headers/posix/stdio.h \
+ /boot/system/develop/headers/posix/stdio_pre.h \
+ /boot/system/develop/headers/posix/libio.h \
+ /boot/system/develop/headers/posix/stdio_post.h \
+ /boot/system/develop/headers/posix/stdint.h \
+ /boot/home/Desktop/src/RigelEngine-0.9.1/3rd_party/glad/3.0/include/glad/glad.h \
+ /boot/home/Desktop/src/RigelEngine-0.9.1/3rd_party/glad/3.0/include/KHR/khrplatform.h

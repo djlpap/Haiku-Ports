@@ -1,0 +1,2 @@
+/bin/ar qc libdbopl.a CMakeFiles/dbopl.dir/dbopl.cpp.o
+/bin/ranlib libdbopl.a

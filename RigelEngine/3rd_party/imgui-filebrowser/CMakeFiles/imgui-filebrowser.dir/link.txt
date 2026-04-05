@@ -1,0 +1,2 @@
+/bin/ar qc libimgui-filebrowser.a "CMakeFiles/imgui-filebrowser.dir/imfilebrowser.cpp.o"
+/bin/ranlib libimgui-filebrowser.a

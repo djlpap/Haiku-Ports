@@ -1,0 +1,2 @@
+/bin/ar qc libnuked-opl3.a "CMakeFiles/nuked-opl3.dir/opl3.c.o"
+/bin/ranlib libnuked-opl3.a

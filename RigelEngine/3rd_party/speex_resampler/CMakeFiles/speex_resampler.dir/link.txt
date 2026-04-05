@@ -1,0 +1,2 @@
+/bin/ar qc libspeex_resampler.a CMakeFiles/speex_resampler.dir/speex/resample.c.o
+/bin/ranlib libspeex_resampler.a
